@@ -86,19 +86,13 @@ export default {
     }
   },
   mounted() {
-    const apiUrl = 'https://api.spencerwoo.com/substats'
-    const rssUrl = 'https://blog.spencerwoo.com/posts/index.xml'
-
-    const rssAxios = this.axios.get(`${apiUrl}/?source=feedly|inoreader&queryKey=${rssUrl}`)
-    const sspaiAxios = this.axios.get(`${apiUrl}/?source=sspai&queryKey=spencerwoo`)
-    const zhihuAxios = this.axios.get(`${apiUrl}/?source=zhihu&queryKey=spencer-woo-64`)
-    const weiboAxios = this.axios.get(`${apiUrl}/?source=weibo&queryKey=6265807914`)
-    const twitterAxios = this.axios.get(`${apiUrl}/?source=twitter&queryKey=realSpencerWoo`)
-    const mediumAxios = this.axios.get(`${apiUrl}/?source=medium&queryKey=@SpencerWooo`)
-    const githubAxios = this.axios.get(`${apiUrl}/?source=github&queryKey=spencerwooo`)
-    const steamGamesAxios = this.axios.get(`${apiUrl}/?source=steamGames&queryKey=76561198336249957`)
-    const steamFriendsAxios = this.axios.get(`${apiUrl}/?source=steamFriends&queryKey=76561198336249957`)
-    const telegramAxios = this.axios.get(`${apiUrl}/?source=telegram&queryKey=realSpencerWoo`)
+    const apiUrl = 'https://api.spencerwoo.com/
+    const sspaiAxios = this.axios.get(`${apiUrl}/?source=sspai&queryKey=ofzy2vd8`)
+    const zhihuAxios = this.axios.get(`${apiUrl}/?source=zhihu&queryKey=tony-15-37-99`)
+    const weiboAxios = this.axios.get(`${apiUrl}/?source=weibo&queryKey=hmsjy`)
+    const twitterAxios = this.axios.get(`${apiUrl}/?source=twitter&queryKey=hmsjy2017`)
+    const githubAxios = this.axios.get(`${apiUrl}/?source=github&queryKey=hmsjy2017`)
+  
 
     this.axios
       .all([
