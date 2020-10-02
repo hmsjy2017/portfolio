@@ -1,15 +1,10 @@
 <template>
   <div class="container">
-    <img id="avatar" alt="avatar" src="./../assets/images/icon.jpg" />
-    <h1>Spencer Woo</h1>
+    <img id="avatar" alt="avatar" src="https://camo.githubusercontent.com/c8b70970f3c08bd95ad0c0771fe7021d06fba6e4/68747470733a2f2f69616d736a792e6f73732d636e2d7368616e676861692e616c6979756e63732e636f6d2f69636f6e2e6a7067" />
+    <h1>Tony</h1>
     <h2>👨‍🎨 👨‍💻 🙋‍♂️</h2>
 
-    <p>开发者 / 设计师 / 少数派 / 学生</p>
-    <p>
-      * creator of
-      <a href="https://dowww.spencerwoo.com/">'Dev on Windows with WSL'</a> and
-      <a href="https://api.spencerwoo.com/substats">'Substats'</a>
-    </p>
+    <p>学生 / 树莓派爱好者</p>
 
     <hr id="top-hr" />
     <h3>🎉 Where to find me:</h3>
@@ -40,18 +35,6 @@
       />
     </div>
 
-    <div id="others">
-      <hr />
-      <h3>你还可以在这些地方偶尔发现一只我：</h3>
-      <div class="social-media">
-        <div class="social-media-card">
-          <img class="media-icon" src="@/assets/images/weibo.png" alt="weibo" />
-          <span>
-            Weibo:
-            <a href="https://weibo.com/spencerwoo">@SpencerWoo</a>
-          </span>
-        </div>
-        <div class="social-media-card">
 
 
       </div>
