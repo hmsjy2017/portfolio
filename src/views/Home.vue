@@ -23,7 +23,7 @@
         description="📒 从头开始（咕咕咕）"
         textColor="#FFFFFF"
         icon="netlify.png"
-        link="https://blog.spencerwoo.com"
+        link="https://blog.iamsjy.com"
       />
       <Card
         msg="GitHub"
