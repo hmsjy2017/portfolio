@@ -7,11 +7,7 @@
     <hr id="top-hr" />
     <div class="article">
       <p>
-        大家好，我是 Spencer Woo，正在北京理工大学就读 CS 专业，目前我的研究方向是：The Robustness of Adversarial
-        Examples。我将于 2020 年秋天前往英国
-        <a href="https://www.gla.ac.uk/">UofG</a> 攻读
-        <a href="https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/">MSc in Computing Science</a
-        >。给大家鞠躬了。🙇
+        某无聊中学生。
       </p>
 
       <h2>我的项目</h2>
@@ -21,16 +17,14 @@
       </p>
 
       <GitHubCard
-        title="📟 Dev on Windows with WSL"
-        link="https://github.com/spencerwooo/dowww"
+        title="Tony’s Blog"
+        link="https://github.com/hmsjy2017/hmsjy2017.github.io"
         :info="dowwwInfo"
         :loading="loading"
       >
         <p>
-          Dev on Windows with WSL：在 Windows 上用 WSL 优雅开发。目前我关注量与 Star
-          数量最高的一个项目，主要介绍了如何在 Windows 10 中引进的 Windows Subsystem for Linux 中进行开发与工作。主站：
-          <a href="https://dowww.spencerwoo.com/">Dev on Windows with WSL</a>
-        </p>
+          我的博客
+        </p
       </GitHubCard>
 
       <GitHubCard
