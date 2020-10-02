@@ -178,7 +178,7 @@ export default {
   mounted() {
     const githubApiUrl = 'https://api.github.com/repos'
 
-    const dowwwAxios = this.axios.get(`${githubApiUrl}/spencerwooo/dowww`)
+    const dowwwAxios = this.axios.get(`${githubApiUrl}/hmsjy2017/hmsjy2017.github.io`)
     const substatsAxios = this.axios.get(`${githubApiUrl}/spencerwooo/Substats`)
     const fatesAxios = this.axios.get(`${githubApiUrl}/SecureCats/Evaluation_BackEnd`)
     const sspaiCardAxios = this.axios.get(`${githubApiUrl}/spencerwooo/jsbox-sspai-namecard`)
