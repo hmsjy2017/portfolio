@@ -14,7 +14,7 @@
         backgroundColor="#ca2c2a"
         description="✏️ 主要输出战场！"
         textColor="#FFFFFF"
-        icon="https://ppmm.org/images/2020/10/03/bc848812b82a284b93595a4636b832c6.png"
+        icon="sspai.png"
         link="https://make.quwj.com/member/708"
       />
       <Card
