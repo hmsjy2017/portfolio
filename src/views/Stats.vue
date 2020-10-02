@@ -7,21 +7,6 @@
     <hr id="top-hr" />
     <div class="col-container">
       <div class="row-container">
-        <statCard
-          statTitle="Telegram 频道"
-          :followers="telegram"
-          suffix="members"
-          icon="telegram.png"
-          :loading="loading"
-          link="https://t.me/realSpencerWoo"
-        />
-        <statCard
-          statTitle="RSS 订阅"
-          :followers="rss"
-          suffix="subscribers"
-          icon="rss.png"
-          :loading="loading"
-          link="https://blog.spencerwoo.com/posts/index.xml"
         />
       </div>
       <div class="row-container">
@@ -31,7 +16,7 @@
           suffix="关注"
           icon="sspai.png"
           :loading="loading"
-          link="https://sspai.com/u/spencerwoo/posts"
+          link="https://sspai.com/u/ofzy2vd8/posts"
         />
         <statCard
           statTitle="微博"
@@ -39,7 +24,7 @@
           suffix="粉丝"
           icon="weibo.png"
           :loading="loading"
-          link="https://weibo.com/spencerwoo"
+          link="https://weibo.com/hmsjy"
         />
       </div>
       <div class="row-container">
@@ -49,7 +34,7 @@
           suffix="关注"
           icon="zhihu.png"
           :loading="loading"
-          link="https://www.zhihu.com/people/spencer-woo-64"
+          link="https://www.zhihu.com/people/tony-15-37-99"
         />
         <statCard
           statTitle="Twitter"
@@ -57,7 +42,7 @@
           suffix="followers"
           icon="twitter.png"
           :loading="loading"
-          link="https://twitter.com/realSpencerWoo"
+          link="https://twitter.com/hmsjy2017"
         />
       </div>
       <div class="row-container">
@@ -67,33 +52,7 @@
           suffix="followers"
           icon="github.png"
           :loading="loading"
-          link="https://github.com/spencerwooo"
-        />
-        <statCard
-          statTitle="Medium"
-          :followers="medium"
-          suffix="readers"
-          icon="medium.png"
-          :loading="loading"
-          link="https://medium.com/spencerweekly"
-        />
-      </div>
-      <div class="row-container">
-        <statCard
-          statTitle="Steam Games"
-          :followers="steamGames"
-          suffix="games bought"
-          icon="steam.png"
-          :loading="loading"
-          link="https://steamcommunity.com/id/firebearllc/"
-        />
-        <statCard
-          statTitle="Steam Friends"
-          :followers="steamFriends"
-          suffix="friends"
-          icon="steam.png"
-          :loading="loading"
-          link="https://steamcommunity.com/id/firebearllc/friends/"
+          link="https://github.com/hmsjy2017"
         />
       </div>
     </div>
