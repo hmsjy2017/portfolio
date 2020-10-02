@@ -36,7 +36,7 @@
         description="📦 我做过的项目都在这里"
         textColor="#FFFFFF"
         icon="github.png"
-        link="https://github.com/spencerwooo"
+        link="https://github.com/hmsjy2017"
       />
     </div>
 
@@ -52,27 +52,12 @@
           </span>
         </div>
         <div class="social-media-card">
-          <img class="media-icon" src="@/assets/images/twitter.png" alt="twitter" />
-          <span>
-            Twitter:
-            <a href="https://twitter.com/realSpencerWoo">@realSpencerWoo</a>
-          </span>
-        </div>
-        <div class="social-media-card">
-          <img class="media-icon" src="@/assets/images/airplane.png" alt="telegram" />
-          <span>
-            Telegram Channel:
-            <a href="https://t.me/realSpencerWoo">@realSpencerWoo</a>
-          </span>
-        </div>
-      </div>
 
-      <!-- <p>🧨 感谢大哥的关注！给您拜年了！干杯 🍻</p> -->
+
+      </div>
 
       <hr />
 
-      
-        />
       </a>
     </div>
   </div>
