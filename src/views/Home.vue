@@ -10,12 +10,12 @@
     <h3>🎉 Where to find me:</h3>
     <div id="card-container">
       <Card
-        msg="少数派 sspai"
+        msg="趣无尽 MAKE"
         backgroundColor="#ca2c2a"
         description="✏️ 主要输出战场！"
         textColor="#FFFFFF"
-        icon="sspai.png"
-        link="https://sspai.com/u/spencerwoo/posts"
+        icon="quwj.png"
+        link="https://make.quwj.com/member/708"
       />
       <Card
         msg="博客 Blog"
