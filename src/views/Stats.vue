@@ -7,7 +7,6 @@
     <hr id="top-hr" />
     <div class="col-container">
       <div class="row-container">
-        />
       </div>
       <div class="row-container">
         <statCard
